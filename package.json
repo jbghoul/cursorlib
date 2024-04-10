@@ -18,7 +18,7 @@
     "canvas"
   ],
   "author": "Fabien LOISON <http://www.flozz.fr/>",
-  "license": "BSD 3-Clauses",
+  "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/wanadev/cursorlib/issues"
   },
